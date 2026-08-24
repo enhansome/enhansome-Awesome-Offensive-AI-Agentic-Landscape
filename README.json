@@ -1,7 +1,1838 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Open-Source Agent List\n按 Star 数降序排列，收录 Star ≥ 90 的开源 AI 渗透测试 / 红队 Agent 及进攻型安全项目。 ⭐新补充 = 本轮新增（2026-07-14/15） Sorted by stars (desc), projects with ≥ 90 stars — covering AI penetration testing, red-team agents, and offensive security tools. ⭐ = newly added this round (2026-07-14/15).\n备注：1k–10k 区间的 Star 数为 GitHub 网页缩写值的换算结果；万级以上误差更大。 Note: stars in the 1k–10k range are converted from GitHub's abbreviated values; 10k+ may carry larger errors.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "1",
+          "description": "KeygraphHQ/shannon 45.6k TypeScript 渗透 Agent 面向 Web 应用和 API 的自主白盒 AI 渗透测试工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1065059442,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:51:36Z",
+            "owner": "KeygraphHQ",
+            "repo": "shannon",
+            "stars": 47157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2",
+          "description": "usestrix/strix 41.0k Python 渗透 Agent 开源 AI 黑客，发现并修复应用漏洞",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1032808806,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:59:44Z",
+            "owner": "usestrix",
+            "repo": "strix",
+            "stars": 57644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3",
+          "description": "promptfoo/promptfoo 23.2k TypeScript LLM 红队 LLM 应用红队/渗透/漏洞扫描，OpenAI、Anthropic 在用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633927609,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:24:44Z",
+            "owner": "promptfoo",
+            "repo": "promptfoo",
+            "stars": 24526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "4",
+          "description": "vxcontrol/pentagi 20.3k Go 渗透 Agent 全自主 AI 代理系统，执行复杂渗透测试任务",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 913030762,
+            "language": "Go",
+            "last_commit": "2026-08-06T11:10:55Z",
+            "owner": "vxcontrol",
+            "repo": "pentagi",
+            "stars": 21993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "5",
+          "description": "GreyDGL/PentestGPT 14.2k Python 渗透 Agent LLM 驱动的自动化渗透测试代理框架（早期标杆）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 607013954,
+            "language": "Python",
+            "last_commit": "2026-07-14T12:58:31Z",
+            "owner": "GreyDGL",
+            "repo": "PentestGPT",
+            "stars": 15044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "6",
+          "description": "0x4m4/hexstrike-ai 10.3k Python MCP / 渗透 MCP 服务器，让 AI Agent 自主运行 150+ 安全工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1017550802,
+            "language": "Python",
+            "last_commit": "2026-08-03T14:33:09Z",
+            "owner": "0x4m4",
+            "repo": "hexstrike-ai",
+            "stars": 11329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "7",
+          "description": "aliasrobotics/cai 9.4k Python 安全 AI 框架 Cybersecurity AI（CAI）安全框架",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 957859485,
+            "language": "Python",
+            "last_commit": "2026-08-22T13:05:58Z",
+            "owner": "aliasrobotics",
+            "repo": "cai",
+            "stars": 9795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "8",
+          "description": "NVIDIA/garak 8.4k Python LLM 红队 LLM 漏洞扫描器（\"LLM 界的 nmap\"）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 639097338,
+            "language": "Python",
+            "last_commit": "2026-08-21T14:25:03Z",
+            "owner": "NVIDIA",
+            "repo": "garak",
+            "stars": 9006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "9",
+          "description": "OWASP/Nettacker 5.2k Python 自动化扫描 OWASP 自动化渗透测试 / 漏扫框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88980374,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:16:00Z",
+            "owner": "OWASP",
+            "repo": "Nettacker",
+            "stars": 5529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "10",
+          "description": "Ed1s0nZ/CyberStrikeAI 5.1k Go 渗透 Agent Go 构建的 AI 原生安全测试平台",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1092279475,
+            "language": "Go",
+            "last_commit": "2026-08-24T11:45:21Z",
+            "owner": "Ed1s0nZ",
+            "repo": "CyberStrikeAI",
+            "stars": 5944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "11",
+          "description": "elder-plinius/T3MP3ST 4.6k TypeScript 红队 Agent 自主红队平台 / 多智能体进攻性安全元框架，复用本机 AI 编码代理（Claude Code/Codex/Ollama 等）作零日漏洞猎手",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1287460663,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T01:27:31Z",
+            "owner": "elder-plinius",
+            "repo": "T3MP3ST",
+            "stars": 5659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "12",
+          "description": "microsoft/PyRIT 4.1k Python LLM 红队 生成式 AI 风险识别工具（Microsoft）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 730753909,
+            "language": "Python",
+            "last_commit": "2026-08-24T05:47:20Z",
+            "owner": "microsoft",
+            "repo": "PyRIT",
+            "stars": 4353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "13",
+          "description": "GH05TCREW/pentestagent 2.8k Python 渗透 Agent 黑盒安全测试 AI Agent 框架（GHOSTCREW）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 984413599,
+            "language": "Python",
+            "last_commit": "2026-08-04T04:39:26Z",
+            "owner": "GH05TCREW",
+            "repo": "pentestagent",
+            "stars": 2993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "14",
+          "description": "protectai/vulnhuntr 2.7k Python 漏洞挖掘 LLM 零样本漏洞发现，\"首个 AI 自主发现 0day\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 873217205,
+            "language": "Python",
+            "last_commit": "2025-02-06T18:04:15Z",
+            "owner": "protectai",
+            "repo": "vulnhuntr",
+            "stars": 2750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "15",
+          "description": "samugit83/redamon 2.2k Python 红队 Agent AI 驱动的代理式红队框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1124754056,
+            "language": "Python",
+            "last_commit": "2026-08-23T13:27:08Z",
+            "owner": "samugit83",
+            "repo": "redamon",
+            "stars": 2348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "16",
+          "description": "confident-ai/deepteam 2.1k Python LLM 红队 DeepTeam — LLM 红队测试框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 943088234,
+            "language": "Python",
+            "last_commit": "2026-08-21T03:45:15Z",
+            "owner": "confident-ai",
+            "repo": "deepteam",
+            "stars": 2614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "17",
+          "description": "Armur-Ai/Pentest-Swarm-AI ⭐新补充 2.1k Go 渗透 Agent 首个\"蜂群\"架构自主渗透平台，信息素黑板去中心化协作，ReAct 推理 + 5 种蜂群剧本，支持 Claude API / Ollama 本地，含 MCP 服务器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 777597786,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:31:51Z",
+            "owner": "Armur-Ai",
+            "repo": "Pentest-Swarm-AI",
+            "stars": 2322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "18",
+          "description": "0xSteph/pentest-ai-agents 2.0k Shell Claude SubAgent 将 Claude Code 转为攻击性安全研究助手",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1194601021,
+            "language": "Shell",
+            "last_commit": "2026-08-16T15:07:17Z",
+            "owner": "0xSteph",
+            "repo": "pentest-ai-agents",
+            "stars": 2155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "19",
+          "description": "oritera/Cairn 2.0k Python 渗透 Agent 通用状态空间搜索引擎，自主渗透",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1214783544,
+            "language": "Python",
+            "last_commit": "2026-07-15T18:13:31Z",
+            "owner": "oritera",
+            "repo": "Cairn",
+            "stars": 2374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "20",
+          "description": "msoedov/agentic_security 1.9k Python LLM 红队 Agentic LLM 漏洞扫描器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 785334631,
+            "language": "Python",
+            "last_commit": "2026-08-18T16:15:08Z",
+            "owner": "msoedov",
+            "repo": "agentic_security",
+            "stars": 1973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "21",
+          "description": "zakirkun/guardian-cli 1.7k Python 渗透 Agent 生产级 AI 渗透 CLI（Gemini + LangChain）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1120886225,
+            "language": "Python",
+            "last_commit": "2026-06-27T19:20:49Z",
+            "owner": "zakirkun",
+            "repo": "guardian-cli",
+            "stars": 1855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "22",
+          "description": "trailofbits/buttercup 1.6k Python 漏洞修复 Trail of Bits 出品（也是 AIxCC 第二名 CRS）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 916045259,
+            "language": "Python",
+            "last_commit": "2026-08-24T04:10:20Z",
+            "owner": "trailofbits",
+            "repo": "buttercup",
+            "stars": 1682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "23",
+          "description": "Gowtham-Darkseid/AutoPentestX 1.4k Python 渗透 Agent 自动化渗透测试与漏洞报告",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1106929732,
+            "language": "Python",
+            "last_commit": "2026-02-02T02:22:36Z",
+            "owner": "Gowtham-Darkseid",
+            "repo": "AutoPentestX",
+            "stars": 1500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "24",
+          "description": "0xSteph/pentest-ai ⭐新补充 1.3k Python 渗透 Agent MCP 服务器封装 205+ 安全工具 + 17 个专业代理 + 确定性漏洞验证（零误报），CLI + MCP 双路径，自带 LLM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1201069034,
+            "language": "Python",
+            "last_commit": "2026-08-20T10:32:22Z",
+            "owner": "0xSteph",
+            "repo": "pentest-ai",
+            "stars": 1621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "25",
+          "description": "utkusen/promptmap 1.2k Python LLM 红队 LLM Prompt Injection 自动化扫描器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 666826154,
+            "language": "Python",
+            "last_commit": "2025-12-01T11:50:23Z",
+            "owner": "utkusen",
+            "repo": "promptmap",
+            "stars": 1254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "26",
+          "description": "CyberStrikeus/CyberStrike ⭐新补充 1.2k TypeScript 渗透 Agent AI 驱动的进攻性安全代理，7,300+ 安全技能，基于 MITRE ATT&CK / CIS / OWASP / NIST，含网站 cyberstrike.io",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1158138383,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:29:28Z",
+            "owner": "CyberStrikeus",
+            "repo": "CyberStrike",
+            "stars": 1955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "27",
+          "description": "ipa-lab/hackingBuddyGPT 1.2k Python 渗透 Agent 50 行代码内调用 LLM 协助伦理黑客",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 673704029,
+            "language": "Python",
+            "last_commit": "2026-08-21T17:54:36Z",
+            "owner": "ipa-lab",
+            "repo": "hackingBuddyGPT",
+            "stars": 1220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "28",
+          "description": "bugbasesecurity/pentest-copilot 1.1k JavaScript 浏览器助手 浏览器端的道德黑客辅助工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 945034056,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T21:59:26Z",
+            "owner": "bugbasesecurity",
+            "repo": "pentest-copilot",
+            "stars": 1322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "29",
+          "description": "berylliumsec/nebula 1.1k Python 渗透助手 AI 渗透助手，自动侦察 / 笔记 / 漏洞分析",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 698663431,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:32:14Z",
+            "owner": "berylliumsec",
+            "repo": "nebula",
+            "stars": 1094
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "30",
+          "description": "SanMuzZzZz/LuaN1aoAgent 1.1k Python 渗透 Agent 全自主 AI 渗透 Agent，XBOW >90%（广州大学）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1110046254,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T10:36:20Z",
+            "owner": "SanMuzZzZz",
+            "repo": "LuaN1aoAgent",
+            "stars": 1276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "31",
+          "description": "splx-ai/agentic-radar 998 Python Agent 安全扫描 LLM Agentic 工作流安全扫描器（OpenAI Agents、CrewAI、LangGraph 等）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 931506474,
+            "language": "Python",
+            "last_commit": "2025-11-27T15:28:44Z",
+            "owner": "splx-ai",
+            "repo": "agentic-radar",
+            "stars": 1042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "32",
+          "description": "ghostsecurity/reaper 875 Go 测试代理 Ghost Security 出品的实时验证代理工具，对人 / Agent 双友好",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 571631107,
+            "language": "Go",
+            "last_commit": "2026-03-24T19:56:55Z",
+            "owner": "ghostsecurity",
+            "repo": "reaper",
+            "stars": 883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "33",
+          "description": "PentesterFlow/agent ⭐新补充 863 TypeScript 渗透 Agent 终端内 Agentic 进攻性安全，\"人在回路中\"，内置 OWASP Top 10 技能 + Burp 集成 + 覆盖率跟踪",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1255069527,
+            "language": "TypeScript",
+            "last_commit": "2026-06-14T08:51:57Z",
+            "owner": "PentesterFlow",
+            "repo": "agent",
+            "stars": 1303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "34",
+          "description": "xalgord/xalgorix 732 Go 渗透 Agent 开源 AI 渗透测试 Agent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1180642359,
+            "language": "Go",
+            "last_commit": "2026-08-23T20:09:29Z",
+            "owner": "xalgorix",
+            "repo": "xalgorix",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "35",
+          "description": "ASCIT31/Dark-Moon ⭐新补充 728 Python 渗透 Agent AI 驱动的自主渗透测试引擎，覆盖 Web/云/AD/K8s，多智能体编排 + 隐私网关 + 50+ 工具集成",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 894433723,
+            "language": "Python",
+            "last_commit": "2026-08-23T15:48:25Z",
+            "owner": "ASCIT31",
+            "repo": "Dark-Moon",
+            "stars": 867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "36",
+          "description": "verialabs/ctf-agent 613 Python CTF Agent 自主 CTF solver，BSidesSF 2026 第一名",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1189884052,
+            "language": "Python",
+            "last_commit": "2026-03-29T06:17:55Z",
+            "owner": "verialabs",
+            "repo": "ctf-agent",
+            "stars": 737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "37",
+          "description": "westonbrown/Cyber-AutoAgent 534 TypeScript 渗透 Agent XBOW 验证基准 85%，已归档但代表性强",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 990911135,
+            "language": "TypeScript",
+            "last_commit": "2025-11-29T19:02:24Z",
+            "owner": "westonbrown",
+            "repo": "Cyber-AutoAgent",
+            "stars": 544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "38",
+          "description": "crond-jaist/AutoPentest-DRL 438 Python 强化学习渗透 使用深度强化学习的自动化渗透测试",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352918593,
+            "language": "Python",
+            "last_commit": "2022-02-15T01:29:18Z",
+            "owner": "crond-jaist",
+            "repo": "AutoPentest-DRL",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "39",
+          "description": "0ca/BoxPwnr 428 Python 渗透 Agent / 多平台基准 HackTheBox / TryHackMe / picoCTF / Cybench / XBOW 等 15 个平台基准框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 922722120,
+            "language": "Python",
+            "last_commit": "2026-07-24T13:54:48Z",
+            "owner": "0ca",
+            "repo": "BoxPwnr",
+            "stars": 449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "40",
+          "description": "ARCANGEL0/EVA 424 Python 渗透 Agent AI 辅助渗透测试代理，多后端 AI 集成",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1116512285,
+            "language": "Python",
+            "last_commit": "2026-06-16T02:45:14Z",
+            "owner": "ARCANGEL0",
+            "repo": "EVA",
+            "stars": 522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "41",
+          "description": "m-sec-org/BreachWeave 419 TypeScript 渗透 Agent Manager/Observer/Solver 多角色架构",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1217808614,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T16:08:31Z",
+            "owner": "m-sec-org",
+            "repo": "BreachWeave",
+            "stars": 509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "42",
+          "description": "SHAdd0WTAka/Zen-Ai-Pentest 413 Python 渗透 Agent 多代理 AI 渗透框架 + 合规报告",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1145350046,
+            "language": "Python",
+            "last_commit": "2026-08-12T04:38:16Z",
+            "owner": "SHAdd0WTAka",
+            "repo": "Zen-Ai-Pentest",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "43",
+          "description": "transilienceai/communitytools 407 Python Claude 工具集 开源 Claude Code skills/agents/slash command",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1101609416,
+            "language": "Python",
+            "last_commit": "2026-07-29T15:19:28Z",
+            "owner": "transilienceai",
+            "repo": "communitytools",
+            "stars": 482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "44",
+          "description": "aielte-research/HackSynth 309 Python 渗透 Agent Planner + Summarizer 双模块，PicoCTF / OverTheWire 200 题（arXiv:2412.01778）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 895130684,
+            "language": "Python",
+            "last_commit": "2025-06-24T10:20:29Z",
+            "owner": "aielte-research",
+            "repo": "HackSynth",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "45",
+          "description": "simon-p-j-r/LLM4Pentest 297 - 研究项目 LLM4Pentest 研究代码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1083038610,
+            "language": null,
+            "last_commit": "2026-08-08T02:12:35Z",
+            "owner": "simon-p-j-r",
+            "repo": "LLM4Pentest",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "46",
+          "description": "xoxruns/deadend-cli 265 Python 渗透 Agent XBOW 黑盒 81%，约 $122 API 成本，本地化执行",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1024537085,
+            "language": "Python",
+            "last_commit": "2026-08-07T09:12:45Z",
+            "owner": "straylabs-ai",
+            "repo": "deadend-cli",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "47",
+          "description": "yz9yt/BugTrace-AI 251 TypeScript 漏洞追踪 （已归档，演进为 BugTraceAI v2）",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1039461717,
+            "language": "TypeScript",
+            "last_commit": "2026-02-11T20:53:15Z",
+            "owner": "yz9yt",
+            "repo": "BugTrace-AI",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "48",
+          "description": "GitHubSecurityLab/seclab-taskflow-agent 212 Python Agent 框架 GitHub Security Lab 出品，YAML 驱动多 Agent + CodeQL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1052954255,
+            "language": "Python",
+            "last_commit": "2026-08-21T10:54:40Z",
+            "owner": "GitHubSecurityLab",
+            "repo": "seclab-taskflow-agent",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "49",
+          "description": "KHenryAegis/VulnBot 177 Python 渗透 Agent 多代理协作框架的自主渗透测试",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 919306307,
+            "language": "Python",
+            "last_commit": "2025-04-07T07:30:33Z",
+            "owner": "KHenryAegis",
+            "repo": "VulnBot",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "50",
+          "description": "chainreactors/tinyctfer 173 Python CTF Agent antix 微型意图运行时 + 元工具设计",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1109735166,
+            "language": "Python",
+            "last_commit": "2025-12-29T09:46:23Z",
+            "owner": "chainreactors",
+            "repo": "tinyctfer",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "51",
+          "description": "NYU-LLM-CTF/nyuctf_agents 151 Python CTF Agent NYU CTF Bench 配套的 D-CIPHER + Baseline",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 771703493,
+            "language": "Python",
+            "last_commit": "2026-07-17T06:10:54Z",
+            "owner": "NYU-LLM-CTF",
+            "repo": "nyuctf_agents",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "52",
+          "description": "antoninoLorenzo/AI-OPS 143 Python 渗透助手 基于开源 LLM 的渗透测试 AI 助手",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 812250737,
+            "language": "Python",
+            "last_commit": "2026-08-23T05:03:31Z",
+            "owner": "antoninoLorenzo",
+            "repo": "AI-OPS",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "53",
+          "description": "andreashappe/cochise 126 Python AD 渗透 Agent 自主 Assumed Breach AD 渗透（TOSEM 2025）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 919480193,
+            "language": "Python",
+            "last_commit": "2026-08-03T08:23:27Z",
+            "owner": "andreashappe",
+            "repo": "cochise",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "54",
+          "description": "arthurgervais/mapta 102 Python 渗透 Agent 多 Agent Web 应用安全评估 + 端到端漏洞利用验证（arXiv:2508.20816）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1046310885,
+            "language": "HTML",
+            "last_commit": "2025-08-28T13:58:42Z",
+            "owner": "arthurgervais",
+            "repo": "mapta",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "55",
+          "description": "vikramrajkumarmajji/AI-VAPT 100 TypeScript VAPT 框架 自主 AI 漏洞评估与渗透测试框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1071332719,
+            "language": "TypeScript",
+            "last_commit": "2025-10-07T08:16:32Z",
+            "owner": "vikramrajkumarmajji",
+            "repo": "AI-VAPT",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "56",
+          "description": "amazon-science/Cyber-Zero 99 Python 训练框架 无运行时训练网络安全代理（Amazon Science）",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1027905255,
+            "language": "Python",
+            "last_commit": "2026-02-13T14:29:44Z",
+            "owner": "amazon-science",
+            "repo": "Cyber-Zero",
+            "stars": 101
+          }
+        }
+      ],
+      "title": "📋 开源Agent列表"
+    },
+    {
+      "description": "Offensive & Security-Specialized Open-Weight Models\n上面的项目多为\"Agent 框架 / 脚手架\"，其能力最终取决于底层模型。本节盘点可作为 Offensive AI Agent 推理内核的开源权重模型，分两类：A. 无安全对齐 / 弱审查的进攻型模型：刻意去除或大幅弱化拒答对齐，可直接输出漏洞利用 / 攻击链推理，最适合本地化、无云依赖的红队 Agent 驱动。B. 安全领域专用模型（含推理 / 漏洞 / 防御对齐）：面向安全垂域微调，能力强但保留了不同程度的安全对齐，进攻场景常需搭配越狱 / 系统提示或作为漏洞检测内核使用。These are open-weight models usable as the reasoning core of an offensive AI agent, split into (A) uncensored/weakly-aligned offensive models and (B) security-specialized models that still retain safety alignment.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "1",
+              "description": "Qwythos-9B-Claude-Mythos-5-1M ⭐新补充（Ollama） 9B Qwen3.5-9B（深度无审查） Empero AI 🔥 \"Claude 平替\"级无审查推理模型，后训练超 5 亿 token Claude Mythos/Fable 思维链，1M 上下文 + 自我纠正工具调用，4GB 显存即可本地运行，MMLU +34.3 / gsm8k +30 大幅超越基座",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1285004738,
+                "language": null,
+                "last_commit": "2026-06-30T11:50:29Z",
+                "owner": "MickyBalladelli",
+                "repo": "qwythos",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "Uncensored / Weakly-Aligned Offensive Models\n⚠️ 说明：此类模型刻意弱化安全对齐，可直接产出攻击性内容，必须严格限定于授权测试 / 隔离环境（详见文末免责声明）。 These models intentionally weaken safety alignment; use only within authorized, isolated environments.",
+          "node_type": "group",
+          "title": "A. 无安全对齐 / 弱审查的进攻型模型"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "1",
+              "description": "VulnLLM-R-7B（代码） 7B Qwen 系 UCSB-SURFI 漏洞挖掘推理模型，逐步推理数据流 / 控制流 / 安全上下文；在 Python/C/C++/Java 上超越 CodeQL、AFL++、Claude-3.7 等（arXiv:2512.07533） 面向检测，弱进攻对齐",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1112297891,
+                "language": "Python",
+                "last_commit": "2026-03-26T04:50:02Z",
+                "owner": "ucsb-mlsec",
+                "repo": "VulnLLM-R",
+                "stars": 377
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "4",
+              "description": "Meta-SecAlign-8B（70B） 8B / 70B Llama-3.1 Meta (FAIR) 首个内建 prompt injection 防御的全开源商用级 LLM（arXiv:2507.02735）；本质是防御对齐标杆，可作红队攻防的\"蓝方\"陪练 强防御对齐（非进攻）",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1010859389,
+                "language": "Python",
+                "last_commit": "2026-06-11T00:36:03Z",
+                "owner": "facebookresearch",
+                "repo": "Meta_SecAlign",
+                "stars": 70
+              }
+            }
+          ],
+          "description": "Security-Specialized Models (Reasoning / VulnDetect / Defense-Aligned)\n甄别提示：VulnLLM-R / Foundation-Sec / CyberSecQwen / Meta-SecAlign / Titus 均非\"无对齐进攻模型\"——它们分别偏漏洞检测、安全推理、防御问答、抗注入防御与 SOC/DFIR 运营。真正\"无安全对齐、适合直接进攻\"的是 A 类（Qwythos、WhiteRabbitNeo/DeepHat、Lily、BaronLLM、CyberStrike-OffSec-35B、BugTraceAI-CORE-Ultra）。将它们并列收录，是为了呈现\"进攻内核 vs 安全垂域 / 防御对齐\"的完整光谱，便于选型时对症下药。 Selection note: only Group A models are genuinely uncensored/offensive; Group B are vuln-detection, reasoning, or defense-aligned models included for a complete spectrum.",
+          "node_type": "group",
+          "title": "B. 安全领域专用模型（含推理 / 漏洞 / 防御对齐）"
+        }
+      ],
+      "title": "🧬 进攻型 / 安全专用开源模型"
+    },
+    {
+      "description": "Offensive AI Skills (Claude Code / Agent Skills Ecosystem)\n除了独立 Agent 与底层模型，Agent Skill（如 Claude Code Skills、agentskills.io / skills.sh 生态）正成为\"进攻型 AI\"落地到通用 AI 编程客户端的重要形态——把渗透测试方法论、工具链调用顺序与 payload/字典打包为可被 Agent 按需自动加载的结构化技能模块。仅收录纯 Skill 形态（非 Agent/Subagent 混合项目）、Star ≥ 100 的仓库，按 Star 数降序排列。 Agent Skills package pentest methodology, tool-chains, and payloads/wordlists into structured modules that general-purpose AI coding agents (e.g. Claude Code) can auto-load on demand. Only pure-Skill repos (excluding Agent/Subagent-hybrid projects) with ≥ 100 stars are listed, sorted by stars (desc).\n⚠️ 上述 Skill 本身通常不内置攻击性代码，仅提供方法论、脚本编排与工具调用规范；实际执行仍依赖用户自行安装的安全工具，且必须严格限定于授权测试场景。 These skills mostly provide methodology/orchestration rather than embedded exploit code; actual execution still relies on separately installed security tools and must remain within authorized testing scope.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "1",
+          "description": "mukul975/Anthropic-Cybersecurity-Skills ⭐新补充 26.1k Agent Skills（agentskills.io 标准，20+ 平台兼容） 🔥 全球最大开源网安 Agent Skill 库，817 个结构化技能覆盖 29 大安全域（红队/渗透/云安全/取证/威胁狩猎等），业界唯一六框架映射（ATT&CK/NIST CSF/ATLAS/D3FEND/AI RMF/F3），社区非官方项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1166506614,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:12:27Z",
+            "owner": "mukul975",
+            "repo": "Anthropic-Cybersecurity-Skills",
+            "stars": 30927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2",
+          "description": "ljagiello/ctf-skills 2.8k Agent Skills（Claude Code 等） CTF 全领域技能包，覆盖 Web/Pwn/密码学/逆向/取证/OSINT/恶意软件/AI-ML 等 10 大类，内置 总调度器自动分发题型",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1147566999,
+            "language": "Python",
+            "last_commit": "2026-08-22T20:31:23Z",
+            "owner": "ljagiello",
+            "repo": "ctf-skills",
+            "stars": 3066
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3",
+          "description": "Eyadkelleh/awesome-skills-security 337 Agent Skills（60+ Agent 兼容） 基于 SecLists 精选打包为 7 类技能（Fuzzing/密码字典/敏感模式/Payload/用户名/Webshell/LLM 测试），一键安装",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1112154391,
+            "language": "PHP",
+            "last_commit": "2026-06-08T08:31:04Z",
+            "owner": "Eyadkelleh",
+            "repo": "awesome-skills-security",
+            "stars": 366
+          }
+        }
+      ],
+      "title": "🧩 进攻型 AI Skill 资源精选"
+    },
+    {
+      "description": "Offensive AI MCP Servers\nMCP（Model Context Protocol）让 AI Agent 以标准化协议直接调用真实安全工具，是\"进攻型 AI\"从推理走向实际执行的关键基础设施——Burp、Metasploit、Nmap 等工具借此被\"AI 化\"。仅收录安全工具集合类 MCP Server（非单一 Agent 项目自带的 MCP 组件）、Star ≥ 100 的仓库，按 Star 数降序排列。 MCP servers let AI agents invoke real security tools via a standardized protocol — the execution layer that turns offensive AI reasoning into action. Only dedicated security-tool MCP servers (excluding MCP components bundled inside a single agent project) with ≥ 100 stars are listed, sorted by stars (desc).\n⚠️ 此类 MCP Server 通常直接封装真实攻击性工具（Metasploit、sqlmap、hashcat 等），风险等级高于 Skill 类资源，必须部署于隔离环境并严格限定授权范围。 These MCP servers wrap real offensive tools directly and carry higher risk than skill-based resources — deploy only in isolated, explicitly authorized environments.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "1",
+          "description": "PortSwigger/mcp-server 990 Kotlin PortSwigger 官方出品，Burp Suite 扩展，桥接 Burp 与 MCP 客户端（Claude Desktop 等），SSE + Stdio 双模式",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 959200834,
+            "language": "Kotlin",
+            "last_commit": "2026-08-14T18:27:35Z",
+            "owner": "PortSwigger",
+            "repo": "mcp-server",
+            "stars": 1101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2",
+          "description": "Wh0am123/MCP-Kali-Server ⭐新补充 775 Python 已收录 Kali 官方软件源（）的轻量级 API 桥接，集成 nmap/hydra/sqlmap/metasploit/wpscan 等，支持 AI 辅助渗透与 CTF/HTB/THM 靶场解题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 961915719,
+            "language": "Python",
+            "last_commit": "2026-03-17T21:13:13Z",
+            "owner": "Wh0am123",
+            "repo": "MCP-Kali-Server",
+            "stars": 801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3",
+          "description": "FuzzingLabs/mcp-security-hub 742 Python 38 个容器化 MCP 服务器集合，覆盖侦察/Web/二进制分析/区块链/云/模糊测试/AD 等，共 300+ 安全工具，生产级安全加固",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1129086590,
+            "language": "Python",
+            "last_commit": "2026-04-08T01:44:15Z",
+            "owner": "FuzzingLabs",
+            "repo": "mcp-security-hub",
+            "stars": 766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "4",
+          "description": "GH05TCREW/MetasploitMCP 696 Python Metasploit 框架 MCP 桥接，支持 exploit/payload 生成、会话管理、Handler 监听器全流程操作",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 965808054,
+            "language": "Python",
+            "last_commit": "2026-02-05T16:43:49Z",
+            "owner": "GH05TCREW",
+            "repo": "MetasploitMCP",
+            "stars": 717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "5",
+          "description": "MorDavid/BloodHound-MCP-AI ⭐新补充 369 Python 首个 BloodHound AI 集成，75+ 工具将 Cypher 查询封装为自然语言，专攻 AD 攻击路径分析（Kerberoasting/AS-REP Roasting/NTLM 中继/委派滥用）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 960315363,
+            "language": "Python",
+            "last_commit": "2025-06-02T22:21:26Z",
+            "owner": "MorDavid",
+            "repo": "BloodHound-MCP-AI",
+            "stars": 374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "6",
+          "description": "BurtTheCoder/mcp-shodan ⭐新补充 145 TypeScript Shodan API + CVEDB 查询 MCP，IP 侦察/DNS 操作/联网设备发现/CVE-CPE 关联查询，支持 Claude Code、Codex、Gemini CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 902513820,
+            "language": "TypeScript",
+            "last_commit": "2026-03-31T18:08:46Z",
+            "owner": "w0h1v",
+            "repo": "mcp-shodan",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "7",
+          "description": "DMontgomery40/pentest-mcp 139 JavaScript/TS 面向专业渗透测试者的实战级 MCP 服务器，内置 nmap/hydra/sqlmap/nuclei/hashcat 等，含 SoW 授权范围采集与 Prompt Injection 风险缓解",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 960171862,
+            "language": "JavaScript",
+            "last_commit": "2026-03-23T19:36:42Z",
+            "owner": "DMontgomery40",
+            "repo": "pentest-mcp",
+            "stars": 142
+          }
+        }
+      ],
+      "title": "🔌 进攻型 AI MCP Server 精选"
+    },
+    {
+      "description": "Notable AI Offense-Defense & Intelligent Penetration Competitions\n本节收录全球范围内具有代表性的 AI 驱动攻防 / 自主渗透 竞技赛事，是检验 Agent 实战能力的\"竞技场\"，产出的开源系统往往代表当前工程实践的最高水准。 This section covers representative AI-driven offense-defense / autonomous penetration competitions worldwide — the \"arenas\" that stress-test Agent capabilities, whose open-sourced systems often represent state-of-the-art engineering practice.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🥇 1",
+              "description": "Team Atlanta ATLANTIS 613 Team-Atlanta/aixcc-afc-atlantis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1032888476,
+                "language": "C",
+                "last_commit": "2025-11-25T05:54:19Z",
+                "owner": "Team-Atlanta",
+                "repo": "aixcc-afc-atlantis",
+                "stars": 640
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🥈 2",
+              "description": "Trail of Bits Buttercup 1.6k trailofbits/buttercup",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 916045259,
+                "language": "Python",
+                "last_commit": "2026-08-24T04:10:20Z",
+                "owner": "trailofbits",
+                "repo": "buttercup",
+                "stars": 1682
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🥉 3",
+              "description": "Theori RoboDuck — theori-io/aixcc-afc-archive",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1019798736,
+                "language": "Python",
+                "last_commit": "2025-08-05T19:15:57Z",
+                "owner": "theori-io",
+                "repo": "aixcc-afc-archive",
+                "stars": 272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "4",
+              "description": "All You Need Is A Fuzzing Brain FuzzingBrain — o2lab/afc-crs-all-you-need-is-a-fuzzing-brain",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1023655126,
+                "language": "Python",
+                "last_commit": "2026-08-20T00:28:22Z",
+                "owner": "fuzzingbrain",
+                "repo": "afc-crs-all-you-need-is-a-fuzzing-brain",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "5",
+              "description": "Shellphish ARTIPHISHELL 137 shellphish/artiphishell",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1027480125,
+                "language": "Python",
+                "last_commit": "2025-08-27T19:52:54Z",
+                "owner": "shellphish",
+                "repo": "artiphishell",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "6",
+              "description": "42-b3yond-6ug BugBuster — 42-b3yond-6ug/42-b3yond-6ug-crs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1040991710,
+                "language": "Python",
+                "last_commit": "2025-08-19T20:19:01Z",
+                "owner": "42-b3yond-6ug",
+                "repo": "42-b3yond-6ug-crs",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "7",
+              "description": "Lacrosse (SIFT) Lacrosse CRS — siftech/afc-crs-lacrosse",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1028588482,
+                "language": "C++",
+                "last_commit": "2025-08-24T14:53:33Z",
+                "owner": "siftech",
+                "repo": "afc-crs-lacrosse",
+                "stars": 11
+              }
+            }
+          ],
+          "description": "DARPA AI Cyber Challenge 2025 Final\n美国 DARPA 在 2025 年举办的 AI Cyber Challenge（AIxCC） 决赛中，7 支队伍各自开源了完整的 Cyber Reasoning System（CRS），代表当前自动化漏洞发现 + 修复 Agent 的最高工程水准。 The 7 finalist Cyber Reasoning Systems from DARPA's AI Cyber Challenge represent today's state-of-the-art in automated vulnerability discovery & patching agents.",
+          "node_type": "group",
+          "title": "1. DARPA AIxCC 2025"
+        }
+      ],
+      "title": "🏆 知名 AI 攻防 / 智能渗透赛事"
+    },
+    {
+      "description": "Related Academic Papers (grouped by topic; within each group, newest first)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "在原有基础上，融合了 tmylla/Awesome-LLM4Cybersecurity",
+          "description": "中渗透测试、进攻 AI、漏洞挖掘相关章节。共收录 73 篇代表性论文，按主题拆为 3 个子表：",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 746499182,
+            "language": "JavaScript",
+            "last_commit": "2026-08-20T13:20:10Z",
+            "owner": "tmylla",
+            "repo": "Awesome-LLM4Cybersecurity",
+            "stars": 1758
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A3",
+              "description": "2026-04 Hackers or Hallucinators? A Comprehensive Analysis of LLM-Based Automated Penetration Testing ⭐新补充 — arXiv simon-p-j-r/LLM4Pentest",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1083038610,
+                "language": null,
+                "last_commit": "2026-08-08T02:12:35Z",
+                "owner": "simon-p-j-r",
+                "repo": "LLM4Pentest",
+                "stars": 343
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A11",
+              "description": "2025-08 MAPTA: Multi-Agent Web Application Security Assessment Arthur Gervais 等 arXiv arthurgervais/mapta",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1046310885,
+                "language": "HTML",
+                "last_commit": "2025-08-28T13:58:42Z",
+                "owner": "arthurgervais",
+                "repo": "mapta",
+                "stars": 106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A17",
+              "description": "2025-04 CAI: An Open, Bug Bounty-Ready Cybersecurity AI ⓝ aliasrobotics arXiv aliasrobotics/cai",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 957859485,
+                "language": "Python",
+                "last_commit": "2026-08-22T13:05:58Z",
+                "owner": "aliasrobotics",
+                "repo": "cai",
+                "stars": 9795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A21",
+              "description": "2025-02 Can LLMs Hack Enterprise Networks? Autonomous Assumed Breach Penetration-Testing AD Andreas Happe, Jürgen Cito ACM TOSEM 2025 andreashappe/cochise",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 919480193,
+                "language": "Python",
+                "last_commit": "2026-08-03T08:23:27Z",
+                "owner": "andreashappe",
+                "repo": "cochise",
+                "stars": 132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A22",
+              "description": "2025-02 D-CIPHER: Dynamic Collaborative Intelligent Multi-Agent System for CTF NYU LLM CTF Team arXiv NYU-LLM-CTF/nyuctf_agents",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 771703493,
+                "language": "Python",
+                "last_commit": "2026-07-17T06:10:54Z",
+                "owner": "NYU-LLM-CTF",
+                "repo": "nyuctf_agents",
+                "stars": 159
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A24",
+              "description": "2025-01 VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework KHenryAegis 等 arXiv KHenryAegis/VulnBot",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 919306307,
+                "language": "Python",
+                "last_commit": "2025-04-07T07:30:33Z",
+                "owner": "KHenryAegis",
+                "repo": "VulnBot",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A25",
+              "description": "2024-12 HackSynth: LLM Agent and Evaluation Framework for Autonomous Penetration Testing Lajos Muzsai et al. (ELTE) arXiv aielte-research/HackSynth",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 895130684,
+                "language": "Python",
+                "last_commit": "2025-06-24T10:20:29Z",
+                "owner": "aielte-research",
+                "repo": "HackSynth",
+                "stars": 314
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A27",
+              "description": "2024-11 PentestAgent: Incorporating LLM Agents to Automated Penetration Testing Xiangmin Shen et al. ASIA CCS 2025 GH05TCREW/pentestagent",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 984413599,
+                "language": "Python",
+                "last_commit": "2026-08-04T04:39:26Z",
+                "owner": "GH05TCREW",
+                "repo": "pentestagent",
+                "stars": 2993
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A36",
+              "description": "2023-08 PentestGPT: An LLM-empowered Automatic Penetration Testing Tool Gelei Deng et al. (NTU) USENIX Security 2024 GreyDGL/PentestGPT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 607013954,
+                "language": "Python",
+                "last_commit": "2026-07-14T12:58:31Z",
+                "owner": "GreyDGL",
+                "repo": "PentestGPT",
+                "stars": 15044
+              }
+            }
+          ],
+          "description": "Pentesting & Red-Team Agents",
+          "node_type": "group",
+          "title": "A. 渗透测试 & 红队 Agent"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "B12",
+              "description": "2025-03 CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Vulnerabilities UIUC Kang Lab ICML 2025 uiuc-kang-lab/cve-bench",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 938877548,
+                "language": "Python",
+                "last_commit": "2026-01-14T07:02:52Z",
+                "owner": "uiuc-kang-lab",
+                "repo": "cve-bench",
+                "stars": 274
+              }
+            }
+          ],
+          "description": "Vulnerability Discovery / Exploitation / Repair",
+          "node_type": "group",
+          "title": "B. 漏洞挖掘 / 利用 / 修复"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "C4",
+              "description": "2025-07 Cyber-Zero: Training Cybersecurity Agents without Runtime Terry Yue Zhuo et al. (Amazon AGI / Monash) arXiv amazon-science/Cyber-Zero",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1027905255,
+                "language": "Python",
+                "last_commit": "2026-02-13T14:29:44Z",
+                "owner": "amazon-science",
+                "repo": "Cyber-Zero",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C5",
+              "description": "2025-06 CyberGym: Evaluating AI Agents on Real-World Vulnerability Analysis Zhun Wang et al. (UC Berkeley Sunblaze) ICLR 2026 sunblaze-ucb/cybergym",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 994930185,
+                "language": "Python",
+                "last_commit": "2026-08-04T23:37:01Z",
+                "owner": "sunblaze-ucb",
+                "repo": "cybergym",
+                "stars": 757
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C6",
+              "description": "2025-06 SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks SEC-bench Team NeurIPS 2025 SEC-bench/SEC-bench",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 996480288,
+                "language": "Python",
+                "last_commit": "2026-01-27T06:24:17Z",
+                "owner": "SEC-bench",
+                "repo": "SEC-bench",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C7",
+              "description": "2025-06 UDora: A Unified Red Teaming Framework against LLM Agents AI-secure 团队 ICML 2025 AI-secure/UDora",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 996629510,
+                "language": "Python",
+                "last_commit": "2025-06-24T01:53:56Z",
+                "owner": "AI-secure",
+                "repo": "UDora",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C10",
+              "description": "2024-10 AutoPenBench: Benchmarking Generative Agents for Penetration Testing Luca Gioacchini et al. (Politecnico di Torino) EMNLP Industry 2025 lucagioacchini/auto-pen-bench",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 865462873,
+                "language": "Python",
+                "last_commit": "2025-10-28T16:40:37Z",
+                "owner": "lucagioacchini",
+                "repo": "auto-pen-bench",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C12",
+              "description": "2024-08 CYBERSECEVAL 3: Advancing the Evaluation of Cybersecurity Risks and Capabilities in LLMs Meta Purple Llama Team arXiv meta-llama/PurpleLlama v3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 728399986,
+                "language": "Python",
+                "last_commit": "2026-08-18T01:15:09Z",
+                "owner": "meta-llama",
+                "repo": "PurpleLlama",
+                "stars": 4364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C13",
+              "description": "2024-08 Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risk of Language Models Andy K. Zhang et al. (Stanford CRFM) ICLR 2025 andyzorigin/cybench",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 761386795,
+                "language": "HTML",
+                "last_commit": "2026-07-09T05:43:14Z",
+                "owner": "andyzorigin",
+                "repo": "cybench",
+                "stars": 316
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C15",
+              "description": "2024-06 NYU CTF Bench: A Scalable Open-Source Benchmark for Evaluating LLMs in Offensive Security Talor Abramovich et al. (NYU) NeurIPS 2024 D&B NYU-LLM-CTF/NYU_CTF_Bench",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 767730213,
+                "language": "Python",
+                "last_commit": "2025-09-22T19:46:03Z",
+                "owner": "NYU-LLM-CTF",
+                "repo": "NYU_CTF_Bench",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C16",
+              "description": "2023-12 Purple Llama CyberSecEval: A Secure Coding Benchmark for Language Models Meta Purple Llama Team arXiv meta-llama/PurpleLlama v1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 728399986,
+                "language": "Python",
+                "last_commit": "2026-08-18T01:15:09Z",
+                "owner": "meta-llama",
+                "repo": "PurpleLlama",
+                "stars": 4364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C17",
+              "description": "2023-06 InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback John Yang et al. (Princeton NLP) NeurIPS 2023 D&B princeton-nlp/intercode",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658826129,
+                "language": "Python",
+                "last_commit": "2024-05-05T23:42:59Z",
+                "owner": "princeton-nlp",
+                "repo": "intercode",
+                "stars": 254
+              }
+            }
+          ],
+          "description": "Evaluation Benchmarks, Training Methods, Surveys & Foundational\n注：会议/期刊年份为论文实际收录会议届期；arXiv 时间为 v1 提交月份。来源致谢：tmylla/Awesome-LLM4Cybersecurity、EvanThomasLuke/Awesome-AI-Hacking-Agents、ox01024/awesome-offensive-security-ai。 Note: conference years refer to actual proceedings; arXiv dates are v1. Credits to the three awesome lists above.",
+          "node_type": "group",
+          "title": "C. 评测基准 & 训练方法 & 综述 & 奠基"
+        }
+      ],
+      "title": "📑 相关学术论文"
+    },
+    {
+      "description": "Agent Capability Benchmarks (sorted by stars, desc)\n用于评估渗透测试 / 网络安全 / CTF / 红队 Agent 能力的开源 benchmark。 Open-source benchmarks for evaluating pentest / cybersecurity / CTF / red-team Agent capabilities.\n备注：标 的 Stars 表示数据缺失或仓库较新。许多 Agent 项目（PentestGPT、cochise、xOffense、Cyber-Zero、deadend-cli 等）会在自己 README 中报告在 NYU CTF Bench / Cybench / AutoPenBench / XBOW 等 Benchmark 上的得分。 Note: \"—\" means missing data or a new repo. Many agent projects report scores against these benchmarks in their own READMEs.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2",
+          "description": "CyberSecEval (1/2/3/4) meta-llama/PurpleLlama 4.2k 2023-12 跨多类任务（不安全代码 / Prompt Injection / 攻击辅助 / AutoPatchBench 等） Meta 出品，覆盖 LLM \"防/攻\"两端 arXiv:2312.04724 / arXiv:2408.10627",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 728399986,
+            "language": "Python",
+            "last_commit": "2026-08-18T01:15:09Z",
+            "owner": "meta-llama",
+            "repo": "PurpleLlama",
+            "stars": 4364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3",
+          "description": "XBOW Validation Benchmarks xbow-engineering/validation-benchmarks 611 2025-06 104 道 Web 漏洞挑战（Jeopardy CTF） XBOW（首个登顶 HackerOne 的 AI）出品，覆盖真实渗透 / 赏金漏洞 XBOW Engineering Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 844621590,
+            "language": "PHP",
+            "last_commit": "2026-07-07T21:20:38Z",
+            "owner": "xbow-engineering",
+            "repo": "validation-benchmarks",
+            "stars": 688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "4",
+          "description": "CyberGym sunblaze-ucb/cybergym 375 2025-06 真实世界漏洞分析任务（240GB 数据集） UC Berkeley 出品，强调 real-world，配 4 个示例 Agent arXiv:2506.02548（ICLR 2026）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 994930185,
+            "language": "Python",
+            "last_commit": "2026-08-04T23:37:01Z",
+            "owner": "sunblaze-ucb",
+            "repo": "cybergym",
+            "stars": 757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "5",
+          "description": "Cybench andyzorigin/cybench 256 2024-08 40 道专业级 CTF 任务（17 个子任务） Stanford CRFM，支持 Unguided / Subtask 双模式 arXiv:2408.08926（ICLR 2025）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 761386795,
+            "language": "HTML",
+            "last_commit": "2026-07-09T05:43:14Z",
+            "owner": "andyzorigin",
+            "repo": "cybench",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "6",
+          "description": "InterCode-CTF princeton-nlp/intercode 248 2023-06 100 道 picoCTF 题 Bash/SQL/Python/CTF 交互式代码 Agent 评测 arXiv:2306.14898（NeurIPS 2023 D&B）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 658826129,
+            "language": "Python",
+            "last_commit": "2024-05-05T23:42:59Z",
+            "owner": "princeton-nlp",
+            "repo": "intercode",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "7",
+          "description": "NYU CTF Bench NYU-LLM-CTF/NYU_CTF_Bench 153 2024-06 200 题正式 + 55 题开发集，6 大类 CSAW CTF 历年题目 + Docker 化部署 arXiv:2406.05590（NeurIPS 2024 D&B）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 767730213,
+            "language": "Python",
+            "last_commit": "2025-09-22T19:46:03Z",
+            "owner": "NYU-LLM-CTF",
+            "repo": "NYU_CTF_Bench",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "8",
+          "description": "AutoPenBench lucagioacchini/auto-pen-bench 86 2024-10 33 个任务（22 In-Vitro + 11 真实 CVE） 生成式 Agent 渗透测试通用评测 arXiv:2410.03225（EMNLP Industry 2025）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 865462873,
+            "language": "Python",
+            "last_commit": "2025-10-28T16:40:37Z",
+            "owner": "lucagioacchini",
+            "repo": "auto-pen-bench",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "9",
+          "description": "inspect_cyber UKGovernmentBEIS/inspect_cyber 29 2025-06 通用扩展（任务可插拔） UK AI Security Institute 官方 Agentic Cyber 评估扩展 —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 921267594,
+            "language": "Python",
+            "last_commit": "2026-06-18T10:37:27Z",
+            "owner": "UKGovernmentBEIS",
+            "repo": "inspect_cyber",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "10",
+          "description": "CVE-Bench uiuc-kang-lab/cve-bench — 2025-03 40 个 critical 严重程度 CVE 首个基于真实 CVE 的 Web 漏洞利用 Agent 评测 arXiv:2503.17332（ICML 2025）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 938877548,
+            "language": "Python",
+            "last_commit": "2026-01-14T07:02:52Z",
+            "owner": "uiuc-kang-lab",
+            "repo": "cve-bench",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "12",
+          "description": "SEC-bench SEC-bench/SEC-bench — 2025-06 200 个 C/C++ 真实 CVE，PoC + 补丁双任务 首个全自动化的真实安全工程评测 arXiv:2506.11791（NeurIPS 2025）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 996480288,
+            "language": "Python",
+            "last_commit": "2026-01-27T06:24:17Z",
+            "owner": "SEC-bench",
+            "repo": "SEC-bench",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "13",
+          "description": "CTFTiny NYU-LLM-CTF/CTFTiny — 2025-08 50 题轻量 CTF 子集 配套 CTFJudge（LLM-as-a-Judge），降低复现成本 arXiv:2508.05674（AAAI 2026）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1000500563,
+            "language": "Python",
+            "last_commit": "2026-03-10T14:00:03Z",
+            "owner": "NYU-LLM-CTF",
+            "repo": "CTFTiny",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "🧪 Agent 能力评测 Benchmark"
+    },
+    {
+      "description": "Awesome List Collection\n本节汇总专门收录 Offensive AI / AI 安全相关精选资源的 Awesome List 仓库，本文档大量内容来自这几个 list 的交叉合并。 This section gathers Awesome List–style repositories. This document is largely derived from cross-merging the following lists.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "1",
+          "description": "fr0gger/Awesome-GPT-Agents ⭐新补充 6.6k fr0gger 网络安全 GPT Agents 全景清单，攻防双方向覆盖",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 717287228,
+            "language": null,
+            "last_commit": "2024-07-21T17:56:50Z",
+            "owner": "fr0gger",
+            "repo": "Awesome-GPT-Agents",
+            "stars": 6583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2",
+          "description": "jiep/offensive-ai-compilation 1.4k jiep 攻击性 AI 综合资源（对抗 ML / 渗透 / 钓鱼 / 生成式 AI 滥用）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 594487852,
+            "language": "HTML",
+            "last_commit": "2026-08-01T11:57:14Z",
+            "owner": "jiep",
+            "repo": "offensive-ai-compilation",
+            "stars": 1420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3",
+          "description": "ottosulin/awesome-ai-security 1.0k ottosulin 通用 AI 安全资源集合（攻防兼顾）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 653250172,
+            "language": null,
+            "last_commit": "2026-08-23T06:01:54Z",
+            "owner": "ottosulin",
+            "repo": "awesome-ai-security",
+            "stars": 1419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "4",
+          "description": "TalEliyahu/Awesome-AI-Security 714 TalEliyahu 偏 AI 系统防御侧的资源、研究与工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 945699463,
+            "language": null,
+            "last_commit": "2026-07-18T08:01:15Z",
+            "owner": "TalEliyahu",
+            "repo": "Awesome-AI-Security",
+            "stars": 855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "5",
+          "description": "raphabot/awesome-cybersecurity-agentic-ai ⭐新补充 514 raphabot 网络安全 Agentic AI 精选资源（MCP / 工具 / 框架 / 论文 / 社区）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 988698008,
+            "language": "Shell",
+            "last_commit": "2026-06-28T16:28:55Z",
+            "owner": "raphabot",
+            "repo": "awesome-cybersecurity-agentic-ai",
+            "stars": 538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "6",
+          "description": "Eyadkelleh/awesome-skills-security ⭐新补充 337 Eyadkelleh 基于 SecLists 精选打包的 Agent Skill 合集（Fuzzing/密码字典/Payload/Webshell/LLM 测试等），60+ Agent 兼容",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1112154391,
+            "language": "PHP",
+            "last_commit": "2026-06-08T08:31:04Z",
+            "owner": "Eyadkelleh",
+            "repo": "awesome-skills-security",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "7",
+          "description": "EvanThomasLuke/Awesome-AI-Hacking-Agents 258 EvanThomasLuke AI Hacking Agent 全景 + AIxCC 决赛队伍 + 商业产品 + 论文",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1151055466,
+            "language": null,
+            "last_commit": "2026-08-10T17:33:31Z",
+            "owner": "EvanThomasLuke",
+            "repo": "Awesome-AI-Hacking-Agents",
+            "stars": 645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "9",
+          "description": "gmh5225/awesome-ai-security 21 gmh5225 面向渗透测试者 / 漏洞猎人 / 安全研究的 AI 安全精选",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1137865873,
+            "language": null,
+            "last_commit": "2026-08-22T03:47:02Z",
+            "owner": "gmh5225",
+            "repo": "awesome-ai-security",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "📚 Awesome List 资源汇编"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T03:46:20.821Z",
+    "last_updated": "2026-08-24T14:32:44.310Z",
     "original_repository": "Yeti-791/Awesome-Offensive-AI-Agentic-Landscape",
     "original_repository_id": 1265742513,
     "original_repository_sha": "a6fea84aee6ff214d995bb075be7448b875b613e",
