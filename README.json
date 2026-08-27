@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1065059442,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T18:19:04Z",
+            "last_commit": "2026-08-27T13:23:56Z",
             "owner": "KeygraphHQ",
             "repo": "shannon",
-            "stars": 47243
+            "stars": 47245
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-27T05:01:47Z",
             "owner": "usestrix",
             "repo": "strix",
-            "stars": 58698
+            "stars": 58721
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-27T00:14:28Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24616
+            "stars": 24618
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-06T11:10:55Z",
             "owner": "vxcontrol",
             "repo": "pentagi",
-            "stars": 22046
+            "stars": 22048
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-14T12:58:31Z",
             "owner": "GreyDGL",
             "repo": "PentestGPT",
-            "stars": 15099
+            "stars": 15102
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-26T07:00:22Z",
             "owner": "Ed1s0nZ",
             "repo": "CyberStrikeAI",
-            "stars": 6010
+            "stars": 6013
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-24T01:27:31Z",
             "owner": "elder-plinius",
             "repo": "T3MP3ST",
-            "stars": 5690
+            "stars": 5695
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 730753909,
             "language": "Python",
-            "last_commit": "2026-08-26T23:51:30Z",
+            "last_commit": "2026-08-27T12:55:18Z",
             "owner": "microsoft",
             "repo": "PyRIT",
             "stars": 4366
@@ -210,7 +210,7 @@
             "last_commit": "2025-02-06T18:04:15Z",
             "owner": "protectai",
             "repo": "vulnhuntr",
-            "stars": 2746
+            "stars": 2747
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-23T13:27:08Z",
             "owner": "samugit83",
             "repo": "redamon",
-            "stars": 2354
+            "stars": 2355
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-21T03:45:15Z",
             "owner": "confident-ai",
             "repo": "deepteam",
-            "stars": 2624
+            "stars": 2625
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-16T15:07:17Z",
             "owner": "0xSteph",
             "repo": "pentest-ai-agents",
-            "stars": 2167
+            "stars": 2168
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-20T10:32:22Z",
             "owner": "0xSteph",
             "repo": "pentest-ai",
-            "stars": 1630
+            "stars": 1631
           }
         },
         {
@@ -387,7 +387,7 @@
             "archived": false,
             "id": 1158138383,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:18:29Z",
+            "last_commit": "2026-08-27T13:09:04Z",
             "owner": "CyberStrikeus",
             "repo": "CyberStrike",
             "stars": 2048
@@ -420,7 +420,7 @@
             "last_commit": "2026-08-14T21:59:26Z",
             "owner": "bugbasesecurity",
             "repo": "pentest-copilot",
-            "stars": 1330
+            "stars": 1329
           }
         },
         {
@@ -432,10 +432,10 @@
             "archived": false,
             "id": 698663431,
             "language": "Python",
-            "last_commit": "2026-08-27T11:23:06Z",
+            "last_commit": "2026-08-27T12:04:56Z",
             "owner": "berylliumsec",
             "repo": "nebula",
-            "stars": 1094
+            "stars": 1093
           }
         },
         {
@@ -926,7 +926,7 @@
             "last_commit": "2026-08-24T11:12:27Z",
             "owner": "mukul975",
             "repo": "Anthropic-Cybersecurity-Skills",
-            "stars": 31323
+            "stars": 31339
           }
         },
         {
@@ -977,7 +977,7 @@
             "last_commit": "2026-08-14T18:27:35Z",
             "owner": "PortSwigger",
             "repo": "mcp-server",
-            "stars": 1110
+            "stars": 1111
           }
         },
         {
@@ -1343,7 +1343,7 @@
                 "last_commit": "2026-07-14T12:58:31Z",
                 "owner": "GreyDGL",
                 "repo": "PentestGPT",
-                "stars": 15099
+                "stars": 15102
               }
             }
           ],
@@ -1749,7 +1749,7 @@
             "last_commit": "2026-08-27T05:41:42Z",
             "owner": "ottosulin",
             "repo": "awesome-ai-security",
-            "stars": 1428
+            "stars": 1430
           }
         },
         {
@@ -1809,7 +1809,7 @@
             "last_commit": "2026-08-10T17:33:31Z",
             "owner": "EvanThomasLuke",
             "repo": "Awesome-AI-Hacking-Agents",
-            "stars": 647
+            "stars": 648
           }
         },
         {
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:24:18.304Z",
+    "last_updated": "2026-08-27T13:24:25.252Z",
     "original_repository_info": {
       "archived": false,
       "id": 1265742513,
