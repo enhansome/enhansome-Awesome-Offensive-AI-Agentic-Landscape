@@ -15,11 +15,11 @@
             "id": 1032808806,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T16:40:51Z",
-            "open_issues": 383,
+            "last_commit": "2026-09-15T22:07:49Z",
+            "open_issues": 388,
             "owner": "usestrix",
             "repo": "strix",
-            "stars": 62508,
+            "stars": 62864,
             "topics": [
               "agents",
               "ai-hacking",
@@ -61,7 +61,7 @@
             "open_issues": 18,
             "owner": "KeygraphHQ",
             "repo": "shannon",
-            "stars": 48023,
+            "stars": 48051,
             "topics": [
               "ai-penetration-testing",
               "ai-security",
@@ -103,7 +103,7 @@
             "open_issues": 69,
             "owner": "vxcontrol",
             "repo": "pentagi",
-            "stars": 24449,
+            "stars": 24533,
             "topics": [
               "ai-agents",
               "ai-security-tool",
@@ -143,7 +143,7 @@
             "open_issues": 80,
             "owner": "GreyDGL",
             "repo": "PentestGPT",
-            "stars": 15472,
+            "stars": 15485,
             "topics": [
               "large-language-models",
               "llm",
@@ -169,7 +169,7 @@
             "open_issues": 110,
             "owner": "0x4m4",
             "repo": "hexstrike-ai",
-            "stars": 11880,
+            "stars": 11902,
             "topics": [
               "0x4m4",
               "ai",
@@ -211,7 +211,7 @@
             "open_issues": 0,
             "owner": "aliasrobotics",
             "repo": "cai",
-            "stars": 9828,
+            "stars": 9832,
             "topics": [
               "artificial-intelligence",
               "cybersecurity",
@@ -236,10 +236,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T08:34:30Z",
-            "open_issues": 56,
+            "open_issues": 60,
             "owner": "AIPentest",
             "repo": "CyberStrikeAI",
-            "stars": 6732,
+            "stars": 6799,
             "topics": [
               "ai",
               "ai-agents",
@@ -270,7 +270,7 @@
             "open_issues": 5,
             "owner": "elder-plinius",
             "repo": "T3MP3ST",
-            "stars": 6132,
+            "stars": 6147,
             "topics": [
               "agents",
               "ai",
@@ -339,7 +339,7 @@
             "open_issues": 30,
             "owner": "GH05TCREW",
             "repo": "pentestagent",
-            "stars": 3077,
+            "stars": 3078,
             "topics": [
               "ai",
               "ai-agents",
@@ -376,7 +376,7 @@
             "open_issues": 10,
             "owner": "oritera",
             "repo": "Cairn",
-            "stars": 2792,
+            "stars": 2810,
             "topics": [
               "ai",
               "ai-agent",
@@ -412,7 +412,7 @@
             "open_issues": 21,
             "owner": "samugit83",
             "repo": "redamon",
-            "stars": 2448,
+            "stars": 2452,
             "topics": [
               "agentic-ai",
               "ai",
@@ -440,11 +440,11 @@
             "id": 777597786,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-15T05:22:30Z",
+            "last_commit": "2026-09-16T06:20:03Z",
             "open_issues": 17,
             "owner": "Armur-Ai",
             "repo": "Pentest-Swarm-AI",
-            "stars": 2503,
+            "stars": 2510,
             "topics": [
               "ai-agents",
               "bug-bounty",
@@ -473,7 +473,7 @@
             "open_issues": 1,
             "owner": "0xSteph",
             "repo": "pentest-ai-agents",
-            "stars": 2227,
+            "stars": 2235,
             "topics": [
               "ai-agents",
               "ai-security",
@@ -509,11 +509,11 @@
             "id": 1158138383,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-14T17:18:01Z",
-            "open_issues": 43,
+            "last_commit": "2026-09-15T15:57:11Z",
+            "open_issues": 49,
             "owner": "CyberStrikeus",
             "repo": "CyberStrike",
-            "stars": 2748,
+            "stars": 2771,
             "topics": [
               "agents",
               "ai-hacking",
@@ -555,7 +555,7 @@
             "open_issues": 5,
             "owner": "zakirkun",
             "repo": "guardian-cli",
-            "stars": 1879,
+            "stars": 1880,
             "topics": [
               "automation",
               "gemini-ai",
@@ -581,7 +581,7 @@
             "open_issues": 2,
             "owner": "0xSteph",
             "repo": "pentest-ai",
-            "stars": 1673,
+            "stars": 1676,
             "topics": [
               "ai-penetration-testing",
               "ai-pentesting",
@@ -623,7 +623,7 @@
             "open_issues": 6,
             "owner": "Gowtham-Darkseid",
             "repo": "AutoPentestX",
-            "stars": 1560,
+            "stars": 1561,
             "topics": [
               "automated-security-testing",
               "cybersecurity",
@@ -653,7 +653,7 @@
             "open_issues": 29,
             "owner": "bugbasesecurity",
             "repo": "pentest-copilot",
-            "stars": 1482,
+            "stars": 1485,
             "topics": [
               "ai",
               "cybersecurity",
@@ -676,11 +676,11 @@
             "id": 1110046254,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-15T02:47:17Z",
+            "last_commit": "2026-09-15T12:50:05Z",
             "open_issues": 4,
             "owner": "SanMuzZzZz",
             "repo": "LuaN1aoAgent",
-            "stars": 1308,
+            "stars": 1311,
             "topics": [
               "agents",
               "ai",
@@ -722,7 +722,7 @@
             "open_issues": 5,
             "owner": "PentesterFlow",
             "repo": "agent",
-            "stars": 1349,
+            "stars": 1357,
             "topics": [
               "ai",
               "ai-agents",
@@ -750,7 +750,7 @@
             "open_issues": 2,
             "owner": "ipa-lab",
             "repo": "hackingBuddyGPT",
-            "stars": 1238,
+            "stars": 1239,
             "topics": [
               "large-language-models",
               "llm",
@@ -772,11 +772,11 @@
             "id": 698663431,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-13T14:02:32Z",
+            "last_commit": "2026-09-16T01:05:31Z",
             "open_issues": 2,
             "owner": "berylliumsec",
             "repo": "nebula",
-            "stars": 1107,
+            "stars": 1109,
             "topics": [
               "ai",
               "ai-powered-ethical-hacking-tool",
@@ -813,7 +813,7 @@
             "open_issues": 15,
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1052,
+            "stars": 1053,
             "topics": [
               "agentic-ai",
               "agentic-framework",
@@ -847,11 +847,11 @@
             "id": 1180642359,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T17:04:02Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-15T21:26:17Z",
+            "open_issues": 1,
             "owner": "xalgorix",
             "repo": "xalgorix",
-            "stars": 1060,
+            "stars": 1089,
             "topics": [
               "ai-agent",
               "ai-security",
@@ -891,7 +891,7 @@
             "open_issues": 2,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 937,
+            "stars": 940,
             "topics": [
               "active-directory",
               "ai-agents",
@@ -933,7 +933,7 @@
             "open_issues": 0,
             "owner": "verialabs",
             "repo": "ctf-agent",
-            "stars": 789,
+            "stars": 792,
             "topics": []
           },
           "first_seen": "2026-08-28T14:44:55.116Z"
@@ -980,7 +980,7 @@
             "open_issues": 0,
             "owner": "ARCANGEL0",
             "repo": "EVA",
-            "stars": 526,
+            "stars": 527,
             "topics": [
               "ai-agent",
               "artificial-intelligence",
@@ -1022,7 +1022,7 @@
             "open_issues": 4,
             "owner": "m-sec-org",
             "repo": "BreachWeave",
-            "stars": 646,
+            "stars": 650,
             "topics": []
           },
           "first_seen": "2026-08-28T14:44:55.116Z"
@@ -1043,7 +1043,7 @@
             "open_issues": 9,
             "owner": "transilienceai",
             "repo": "communitytools",
-            "stars": 526,
+            "stars": 527,
             "topics": [
               "bounty-hunters",
               "hackerone",
@@ -1180,7 +1180,7 @@
             "open_issues": 10,
             "owner": "straylabs-ai",
             "repo": "deadend-cli",
-            "stars": 307,
+            "stars": 308,
             "topics": [
               "agentic-ai",
               "ai",
@@ -1549,10 +1549,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T04:32:44Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "mukul975",
             "repo": "Anthropic-Cybersecurity-Skills",
-            "stars": 32793,
+            "stars": 32838,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -1594,7 +1594,7 @@
             "open_issues": 1,
             "owner": "ljagiello",
             "repo": "ctf-skills",
-            "stars": 3286,
+            "stars": 3296,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -1628,7 +1628,7 @@
             "open_issues": 7,
             "owner": "Eyadkelleh",
             "repo": "awesome-skills-security",
-            "stars": 383,
+            "stars": 384,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -1666,7 +1666,7 @@
             "open_issues": 55,
             "owner": "PortSwigger",
             "repo": "mcp-server",
-            "stars": 1162,
+            "stars": 1166,
             "topics": [
               "extension"
             ]
@@ -1717,7 +1717,7 @@
             "open_issues": 7,
             "owner": "FuzzingLabs",
             "repo": "mcp-security-hub",
-            "stars": 786,
+            "stars": 790,
             "topics": [
               "ai",
               "claude",
@@ -1774,7 +1774,7 @@
             "open_issues": 0,
             "owner": "MorDavid",
             "repo": "BloodHound-MCP-AI",
-            "stars": 375,
+            "stars": 376,
             "topics": [
               "ai",
               "bloodhound",
@@ -1950,7 +1950,7 @@
                 "id": 1023655126,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T15:50:12Z",
+                "last_commit": "2026-09-15T18:05:06Z",
                 "open_issues": 9,
                 "owner": "fuzzingbrain",
                 "repo": "afc-crs-all-you-need-is-a-fuzzing-brain",
@@ -2068,11 +2068,11 @@
                 "id": 1083038610,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-15T08:02:27Z",
+                "last_commit": "2026-09-16T05:09:18Z",
                 "open_issues": 0,
                 "owner": "simon-p-j-r",
                 "repo": "LLM4Pentest",
-                "stars": 361,
+                "stars": 360,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:44:55.116Z"
@@ -2114,7 +2114,7 @@
                 "open_issues": 4,
                 "owner": "Stanford-Trinity",
                 "repo": "ARTEMIS",
-                "stars": 541,
+                "stars": 543,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -2181,7 +2181,7 @@
                 "open_issues": 2,
                 "owner": "ipa-lab",
                 "repo": "hackingBuddyGPT",
-                "stars": 1238,
+                "stars": 1239,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -2207,7 +2207,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9828,
+                "stars": 9832,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -2342,7 +2342,7 @@
                 "open_issues": 30,
                 "owner": "GH05TCREW",
                 "repo": "pentestagent",
-                "stars": 3077,
+                "stars": 3078,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -2379,7 +2379,7 @@
                 "open_issues": 29,
                 "owner": "bugbasesecurity",
                 "repo": "pentest-copilot",
-                "stars": 1482,
+                "stars": 1485,
                 "topics": [
                   "ai",
                   "cybersecurity",
@@ -2406,7 +2406,7 @@
                 "open_issues": 80,
                 "owner": "GreyDGL",
                 "repo": "PentestGPT",
-                "stars": 15472,
+                "stars": 15485,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -2456,7 +2456,7 @@
                 "id": 938877548,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-01-14T07:02:52Z",
+                "last_commit": "2026-09-15T12:57:45Z",
                 "open_issues": 8,
                 "owner": "uiuc-kang-lab",
                 "repo": "cve-bench",
@@ -2584,7 +2584,7 @@
                 "open_issues": 8,
                 "owner": "sunblaze-ucb",
                 "repo": "cybergym",
-                "stars": 866,
+                "stars": 875,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:44:55.116Z"
@@ -2626,7 +2626,7 @@
                 "open_issues": 3,
                 "owner": "lucagioacchini",
                 "repo": "auto-pen-bench",
-                "stars": 98,
+                "stars": 100,
                 "topics": [
                   "benchmark",
                   "generative-agents",
@@ -2680,7 +2680,7 @@
                 "open_issues": 102,
                 "owner": "andyzorigin",
                 "repo": "cybench",
-                "stars": 323,
+                "stars": 324,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:44:55.116Z"
@@ -2775,7 +2775,7 @@
             "open_issues": 87,
             "owner": "meta-llama",
             "repo": "PurpleLlama",
-            "stars": 4395,
+            "stars": 4397,
             "topics": []
           },
           "first_seen": "2026-08-28T14:44:55.116Z"
@@ -2796,7 +2796,7 @@
             "open_issues": 8,
             "owner": "sunblaze-ucb",
             "repo": "cybergym",
-            "stars": 866,
+            "stars": 875,
             "topics": []
           },
           "first_seen": "2026-08-28T14:44:55.116Z"
@@ -2817,7 +2817,7 @@
             "open_issues": 8,
             "owner": "xbow-engineering",
             "repo": "validation-benchmarks",
-            "stars": 703,
+            "stars": 705,
             "topics": [
               "ai",
               "benchmarks",
@@ -2842,7 +2842,7 @@
             "open_issues": 102,
             "owner": "andyzorigin",
             "repo": "cybench",
-            "stars": 323,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-28T14:44:55.116Z"
@@ -2905,7 +2905,7 @@
             "open_issues": 3,
             "owner": "lucagioacchini",
             "repo": "auto-pen-bench",
-            "stars": 98,
+            "stars": 100,
             "topics": [
               "benchmark",
               "generative-agents",
@@ -2948,7 +2948,7 @@
             "id": 938877548,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-01-14T07:02:52Z",
+            "last_commit": "2026-09-15T12:57:45Z",
             "open_issues": 8,
             "owner": "uiuc-kang-lab",
             "repo": "cve-bench",
@@ -3025,7 +3025,7 @@
             "open_issues": 29,
             "owner": "fr0gger",
             "repo": "Awesome-GPT-Agents",
-            "stars": 6600,
+            "stars": 6602,
             "topics": [
               "agents",
               "cybersecurity",
@@ -3075,10 +3075,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-13T06:25:32Z",
-            "open_issues": 180,
+            "open_issues": 182,
             "owner": "ottosulin",
             "repo": "awesome-ai-security",
-            "stars": 1470,
+            "stars": 1476,
             "topics": []
           },
           "first_seen": "2026-08-28T14:44:55.116Z"
@@ -3099,7 +3099,7 @@
             "open_issues": 28,
             "owner": "TalEliyahu",
             "repo": "Awesome-AI-Security",
-            "stars": 870,
+            "stars": 872,
             "topics": [
               "artificial-intelligence",
               "cybersecurity"
@@ -3120,7 +3120,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-29T01:00:24Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "EvanThomasLuke",
             "repo": "Awesome-AI-Hacking-Agents",
             "stars": 667,
@@ -3141,7 +3141,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-09-08T10:59:59Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "raphabot",
             "repo": "awesome-cybersecurity-agentic-ai",
             "stars": 590,
@@ -3165,7 +3165,7 @@
             "open_issues": 7,
             "owner": "Eyadkelleh",
             "repo": "awesome-skills-security",
-            "stars": 383,
+            "stars": 384,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -3193,11 +3193,11 @@
             "id": 1083038610,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-15T08:02:27Z",
+            "last_commit": "2026-09-16T05:09:18Z",
             "open_issues": 0,
             "owner": "simon-p-j-r",
             "repo": "LLM4Pentest",
-            "stars": 361,
+            "stars": 360,
             "topics": []
           },
           "first_seen": "2026-08-28T14:44:55.116Z"
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:13:42.957Z",
+    "last_updated": "2026-09-16T08:07:39.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "This document curates open-source projects, academic papers, capability benchmarks, and commercial solutions (international & China) in AI penetration testing, LLM red teaming, autonomous offensive agents, and vulnerability discovery—aimed at helping researchers, security engineers, and enterprise decision-makers quickly form a holistic view.",
@@ -3240,7 +3240,7 @@
       "open_issues": 0,
       "owner": "Yeti-791",
       "repo": "Awesome-Offensive-AI-Agentic-Landscape",
-      "stars": 285,
+      "stars": 290,
       "topics": [
         "ai-benchmarks",
         "ai-hacking",
